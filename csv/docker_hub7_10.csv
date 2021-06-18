@@ -1,0 +1,127 @@
+name,star,pull command,version,dockerfilelink
+mageia,33,docker pull mageia,"8, latest",https://github.com/juanluisbaptiste/docker-brew-mageia/blob/067e6df19c568e101a42dc71b77f6a2de5992c70/dist/8/x86_64/Dockerfile
+mageia,33,docker pull mageia,7,https://github.com/juanluisbaptiste/docker-brew-mageia/blob/067e6df19c568e101a42dc71b77f6a2de5992c70/dist/7/x86_64/Dockerfile
+mageia,33,docker pull mageia,cauldron,https://github.com/juanluisbaptiste/docker-brew-mageia/blob/067e6df19c568e101a42dc71b77f6a2de5992c70/dist/cauldron/x86_64/Dockerfile
+known,40,docker pull known,"0.9.9, 0.9, 0, latest",https://github.com/idno/Known-Docker/blob/3454a52b4ad48e22b95e706dba9ff953cf84c2b1/Dockerfile
+crux,34,docker pull crux,"3.4, latest",https://github.com/cruxlinux/docker-crux/blob/da081a9004c5559cd77a1e2c2521193ccb2afdd2/Dockerfile
+crux,34,docker pull crux,3.2,https://github.com/cruxlinux/docker-crux/blob/07e966125ba3d6d48a12489830917e8a9bc983a7/Dockerfile
+euleros,20,docker pull euleros,"2.3.1809, latest",https://github.com/euleros/euleros-docker-images/blob/db22e2c392c3922d2c674110c90667576618f348/2.3.1809/x86_64/Dockerfile
+euleros,20,docker pull euleros,2.3.1806,https://github.com/euleros/euleros-docker-images/blob/e304245f74141e6e856a017c8d204c27300c1da8/2.3.1806/x86_64/Dockerfile
+euleros,20,docker pull euleros,2.3.1803,https://github.com/euleros/euleros-docker-images/blob/5afd15edcd49671adefb6dff87537f2943ae1107/2.3.1803/x86_64/Dockerfile
+euleros,20,docker pull euleros,2.2,https://github.com/euleros/euleros-docker-images/blob/959f378638f222bd1eebe8dccf267cccbc118174/2.2/Dockerfile
+sourcemage,41,docker pull sourcemage,"latest, 0.62",https://github.com/vaygr/docker-sourcemage/blob/a03bbe3ae7bbb839c3c69afd4504ca336f7b9cb9/stable/Dockerfile
+sapmachine,26,docker pull sapmachine,"16, 16.0.1, latest",https://github.com/SAP/SapMachine-infrastructure/blob/0449b4147caed3eb6fcf46ef3301d12af13e819a/dockerfiles/official/stable/Dockerfile
+sapmachine,26,docker pull sapmachine,"11, 11.0.11, lts",https://github.com/SAP/SapMachine-infrastructure/blob/ee2eebb7494ba8ba3a18e43be50aac47913c310a/dockerfiles/official/lts/Dockerfile
+sl,29,docker pull sl,"7, latest",https://github.com/scientificlinux/sl-docker/blob/ff49ec628f9b878a14039f346cbe895822144783/sl7/Dockerfile
+Datadog Agent,0,,,
+clefos,18,docker pull clefos,"7, 7.7.1908, latest",https://github.com/nealef/clefos/blob/1aa7d3771b2ced8b8b5cdc9a1a1752d93c56a60e/Dockerfile
+jobber,32,docker pull jobber,"1.4.4-alpine3.11, 1.4-alpine3.11, 1-alpine3.11, latest",https://github.com/dshearer/jobber-docker/blob/cd07d76987097b5389aa9be5f48df041aa74d699/alpine3.11/Dockerfile
+alt,40,docker pull alt,"p9, latest",https://github.com/alt-cloud/docker-brew-alt/blob/027b02f57faf6278ab0a7080e077f4e989e0302d/x86_64/Dockerfile
+alt,40,docker pull alt,p8,https://github.com/alt-cloud/docker-brew-alt/blob/ce87cc6c704caf13461955cfa5ddd83a7d04207a/x86_64/Dockerfile
+alt,40,docker pull alt,sisyphus,https://github.com/alt-cloud/docker-brew-alt/blob/425b1b723bf933037319e23d5a5cdf7e796971eb/x86_64/Dockerfile
+hipache,81,docker pull hipache,"latest, 0.3.1 (Dockerfile)",https://github.com/dotcloud/hipache/blob/c2d4864a663d976ff2560493fe8e0dd424b792b3/Dockerfile
+scratch,750,docker pull scratch,,
+dart,14,docker pull dart,"2.13.3-sdk, 2.13-sdk, 2-sdk, stable-sdk, sdk, 2.13.3, 2.13, 2, stable, latest, beta-sdk, beta",https://github.com/dart-lang/dart-docker/blob/b43f5919af3c00e203ceec8b7ff8a41e7aadd7eb/stable/buster/Dockerfile
+hitch,2,docker pull hitch,"1, 1.7, 1.7.0, 1.7.0-1, latest",https://github.com/varnish/docker-hitch/blob/d2feb9f1a1a3426da633383c2bac4a31559248bd/Dockerfile
+almalinux,10,docker pull almalinux,"latest, 8, 8.4",https://github.com/AlmaLinux/docker-images/blob/3317c1f96704c1cbbab9257ac51a791fb7e28987/Dockerfile
+Veritas NetBackup Client,0,,,
+CoScale agent,0,,,
+Oracle JDK,0,,,
+MySQL Server Enterprise Edition,0,,,
+Storidge CSI Driver,0,,Persistent storage for containers,https://builders.intel.com/docs/storagebuilders/fast-and-easy-persistent-storage-for-docker-containers-with-storidge-and-intel.pdf
+Storidge CSI Driver,0,,Docker volumes,https://docs.storidge.com/docker_volumes/volumes.html/
+Storidge CSI Driver,0,,Kubernetes persistent storage,https://docs.storidge.com/kubernetes_storage/volumes.html#kubernetes-storage/
+AppDynamics,0,,,
+Oracle WebLogic Server,0,,,
+MySQL Server Enterprise Edition,0,,,
+Storidge CSI Driver,0,,Persistent storage for containers,https://builders.intel.com/docs/storagebuilders/fast-and-easy-persistent-storage-for-docker-containers-with-storidge-and-intel.pdf
+Storidge CSI Driver,0,,Docker volumes,https://docs.storidge.com/docker_volumes/volumes.html/
+Storidge CSI Driver,0,,Kubernetes persistent storage,https://docs.storidge.com/kubernetes_storage/volumes.html#kubernetes-storage/
+AppDynamics,0,,,
+Sitescope,0,,,
+HPE SimpliVity Container Provider,0,,,
+Bleemeo,0,,,
+InterSystems IRIS Data Platform,0,,,
+APM Server,0,,,
+Oracle Web Tier,0,,,
+Auditbeat,0,,,
+Heartbeat,0,,,
+Packetbeat,0,,,
+Instana Dynamic APM,0,,,
+Portworx PX-Developer,0,,,
+Oracle Database Enterprise Edition,0,,,
+PX-Enterprise,0,,Docker Cassandra,https://portworx.com/use-case/cassandra-docker-container/
+PX-Enterprise,0,,Docker Hadoop,https://docs.portworx.com/applications/hadoop-docker.html
+PX-Enterprise,0,,Docker MySQL,https://docs.portworx.com/applications/mysql.html
+PX-Enterprise,0,,Docker Redis,https://docs.portworx.com/applications/redis.html
+PX-Enterprise,0,,Docker Kafka,https://docs.portworx.com/applications/kafka.html
+Metricbeat,0,,,
+Oracle Instant Client,0,,,
+Dynatrace,0,,,
+Cisco ACI-CNI,0,,,
+Weave Cloud Agent,0,,,
+Oracle Fusion Middleware Infrastructure,0,,,
+Oracle Java 8 SE (Server JRE),0,,,
+Dynatrace,0,,,
+Oracle Instant Client,0,,,
+Cisco ACI-CNI,0,,,
+cheers,0,docker pull cheers,,
+dcl2020,0,docker pull dcl2020,,
+Software AG Adabas CE,0,,,
+"SAP HANA, express edition (database services)",0,,,
+"SAP HANA, express edition (database and application services)",0,,,
+.NET,0,,C#,https://docs.microsoft.com/dotnet/csharp/
+.NET,0,,F#,https://docs.microsoft.com/dotnet/fsharp/
+.NET Core,0,,,
+ASP.NET Core 2.1/3.1 Runtime,0,,dotnet,https://hub.docker.com/_/microsoft-dotnet/
+ASP.NET Core 2.1/3.1 Runtime,0,,dotnet/sdk,https://hub.docker.com/_/microsoft-dotnet-sdk/
+ASP.NET Core 2.1/3.1 Runtime,0,,dotnet/runtime,https://hub.docker.com/_/microsoft-dotnet-runtime/
+ASP.NET Core 2.1/3.1 Runtime,0,,dotnet/runtime-deps,https://hub.docker.com/_/microsoft-dotnet-runtime-deps/
+ASP.NET Core 2.1/3.1 Runtime,0,,dotnet/monitor,https://hub.docker.com/_/microsoft-dotnet-monitor/
+ASP.NET Core 2.1/3.1 Runtime,0,,dotnet/samples,https://hub.docker.com/_/microsoft-dotnet-samples/
+ASP.NET Core 2.1/3.1 Runtime,0,,dotnet/nightly/aspnet,https://hub.docker.com/_/microsoft-dotnet-nightly-aspnet/
+.NET Core Runtime,0,,dotnet,https://hub.docker.com/_/microsoft-dotnet/
+.NET Core Runtime,0,,dotnet/sdk,https://hub.docker.com/_/microsoft-dotnet-sdk/
+.NET Core Runtime,0,,dotnet/aspnet,https://hub.docker.com/_/microsoft-dotnet-aspnet/
+.NET Core Runtime,0,,dotnet/runtime-deps,https://hub.docker.com/_/microsoft-dotnet-runtime-deps/
+.NET Core Runtime,0,,dotnet/monitor,https://hub.docker.com/_/microsoft-dotnet-monitor/
+.NET Core Runtime,0,,dotnet/samples,https://hub.docker.com/_/microsoft-dotnet-samples/
+.NET Core Runtime,0,,dotnet/nightly/runtime,https://hub.docker.com/_/microsoft-dotnet-nightly-runtime/
+ASP.NET Core Runtime,0,,dotnet,https://hub.docker.com/_/microsoft-dotnet/
+ASP.NET Core Runtime,0,,dotnet/sdk,https://hub.docker.com/_/microsoft-dotnet-sdk/
+ASP.NET Core Runtime,0,,dotnet/runtime,https://hub.docker.com/_/microsoft-dotnet-runtime/
+ASP.NET Core Runtime,0,,dotnet/runtime-deps,https://hub.docker.com/_/microsoft-dotnet-runtime-deps/
+ASP.NET Core Runtime,0,,dotnet/monitor,https://hub.docker.com/_/microsoft-dotnet-monitor/
+ASP.NET Core Runtime,0,,dotnet/samples,https://hub.docker.com/_/microsoft-dotnet-samples/
+ASP.NET Core Runtime,0,,dotnet/nightly/aspnet,https://hub.docker.com/_/microsoft-dotnet-nightly-aspnet/
+.NET Runtime,0,,dotnet,https://hub.docker.com/_/microsoft-dotnet/
+.NET Runtime,0,,dotnet/sdk,https://hub.docker.com/_/microsoft-dotnet-sdk/
+.NET Runtime,0,,dotnet/aspnet,https://hub.docker.com/_/microsoft-dotnet-aspnet/
+.NET Runtime,0,,dotnet/runtime-deps,https://hub.docker.com/_/microsoft-dotnet-runtime-deps/
+.NET Runtime,0,,dotnet/monitor,https://hub.docker.com/_/microsoft-dotnet-monitor/
+.NET Runtime,0,,dotnet/samples,https://hub.docker.com/_/microsoft-dotnet-samples/
+.NET Runtime,0,,dotnet/nightly/runtime,https://hub.docker.com/_/microsoft-dotnet-nightly-runtime/
+.NET Core SDK,0,,.NET Docker Sample,https://github.com/dotnet/dotnet-docker/blob/main/samples/dotnetapp/README.md
+.NET Core SDK,0,,sample,https://github.com/dotnet/dotnet-docker/blob/main/samples/dotnetapp/Dockerfile
+.NET Core SDK,0,,ASP.NET Core Docker Sample,https://github.com/dotnet/dotnet-docker/blob/main/samples/aspnetapp/README.md
+.NET Core SDK,0,,sample,https://github.com/dotnet/dotnet-docker/blob/main/samples/aspnetapp/Dockerfile
+.NET SDK,0,,.NET Docker Sample,https://github.com/dotnet/dotnet-docker/blob/main/samples/dotnetapp/README.md
+.NET SDK,0,,sample,https://github.com/dotnet/dotnet-docker/blob/main/samples/dotnetapp/Dockerfile
+.NET SDK,0,,ASP.NET Core Docker Sample,https://github.com/dotnet/dotnet-docker/blob/main/samples/aspnetapp/README.md
+.NET SDK,0,,sample,https://github.com/dotnet/dotnet-docker/blob/main/samples/aspnetapp/Dockerfile
+.NET Core Runtime Dependencies,0,,.NET self-contained Sample,https://github.com/dotnet/dotnet-docker/blob/main/samples/dotnetapp/dotnet-docker-selfcontained.md
+.NET Core Runtime Dependencies,0,,sample,https://github.com/dotnet/dotnet-docker/blob/main/samples/dotnetapp/Dockerfile.debian-x64-selfcontained
+.NET Runtime Dependencies,0,,.NET self-contained Sample,https://github.com/dotnet/dotnet-docker/blob/main/samples/dotnetapp/dotnet-docker-selfcontained.md
+.NET Runtime Dependencies,0,,sample,https://github.com/dotnet/dotnet-docker/blob/main/samples/dotnetapp/Dockerfile.debian-x64-selfcontained
+.NET Monitor,0,,dotnet,https://hub.docker.com/_/microsoft-dotnet/
+.NET Monitor,0,,dotnet/sdk,https://hub.docker.com/_/microsoft-dotnet-sdk/
+.NET Monitor,0,,dotnet/aspnet,https://hub.docker.com/_/microsoft-dotnet-aspnet/
+.NET Monitor,0,,dotnet/runtime,https://hub.docker.com/_/microsoft-dotnet-runtime/
+.NET Monitor,0,,dotnet/runtime-deps,https://hub.docker.com/_/microsoft-dotnet-runtime-deps/
+.NET Monitor,0,,dotnet/samples,https://hub.docker.com/_/microsoft-dotnet-samples/
+.NET Monitor,0,,dotnet/nightly/monitor,https://hub.docker.com/_/microsoft-dotnet-nightly-monitor/
+Windows base OS images,0,,dotnet/core,https://hub.docker.com/_/microsoft-dotnet-core
+Windows base OS images,0,,dotnet/framework,https://hub.docker.com/_/microsoft-dotnet-framework
+Windows base OS images,0,,windows/servercore/iis,https://hub.docker.com/_/microsoft-windows-servercore-iis
+Windows Server Core,0,,windows/servercore/insider,https://hub.docker.com/_/microsoft-windows-servercore-insider/
+Nano Server,0,,windows/nanoserver/insider,https://hub.docker.com/_/microsoft-windows-nanoserver-insider/
